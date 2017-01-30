@@ -1,0 +1,49 @@
+.background-gold {
+        background-color: darkgoldenrod;
+
+}
+
+.first {
+    height: 65px;
+    width: 100%;
+    
+}
+.one {
+    color: brown;
+    font-family: 'Sigmar One', cursive;
+    font-size: 30px;
+    font-weight:bolder;
+    padding-top: 15px;
+  
+}
+.second {
+    background-color: darkred;
+    height: 305px;
+    width: 100%;
+    text-align: center;
+    padding-top: 0;
+    
+}
+
+.container-fluid {
+    padding: 0 !important;
+}
+.third {
+    text-align: center;
+    font-family: 'Sigmar One', cursive;
+    font-weight:bolder;
+    color: brown;
+    
+}
+.forth {
+    background-color:darkgoldenrod;
+    text-align: right; 
+    height: 90px;
+    width: 100%;
+}
+.logo {
+    height: 90px;
+    width: 80px;
+    padding-top: 12px;
+   
+}

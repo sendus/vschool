@@ -1,0 +1,77 @@
+#title {
+    font-weight:bolder;
+    text-align: center;
+    font-family: cursive;
+    color: #D50000;
+    font-size: 60px;
+}
+#one {
+    text-align: center;
+    padding-top: 30px;
+}
+#two {
+    text-align: center;
+    padding-top: 30px;
+}
+#three {
+    text-align: center;
+    padding-top: 30px;
+}
+body {
+    background-image: url("five.jpg");
+    background-size: cover;
+    background-position: center;
+}
+img {
+    width: 220px;
+    height: 270px;
+    margin-bottom: 0;
+    font-size: 15px;
+    margin-top: 0;
+}
+#rt{
+    text-align: center;
+    color: #1B5E20;
+    font-size: 45px;
+    font-weight:bolder;
+}
+h3 {
+    color:#283593;
+    font-weight: bolder;
+    margin-bottom: 0;
+    font-size: 40;
+    font-family: cursive;
+    font-style:normal ;
+    
+}
+h4 {
+    color:brown;
+    margin-bottom: 3px;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-top:0;
+}
+#rg {
+    margin-top: 7px;
+}
+#rmin {
+    margin-top: 7px;
+}
+#rplu {
+    margin-top: 7px;
+}
+.a {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 17px;
+}
+.b {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 17px;
+}
+.c {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 17px;
+}

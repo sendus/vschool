@@ -1,0 +1,12 @@
+
+/*.row {
+    border-width: thick;
+    border-color: black;
+}*/
+
+.red {
+    height: 100px;
+    width: 100%;
+    background-color: red;
+    
+}

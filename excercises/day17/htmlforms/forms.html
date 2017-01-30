@@ -1,0 +1,47 @@
+<html>
+<head>
+           <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        
+         <link rel="stylesheet" type = "text/css" href="forms.css"> 
+</head>
+    <body>
+    <form>
+        <label for="firstname">First Name</label>
+        <input id="fn" class="form-control" name="firstname" type="text" placeholder="FirstName">
+        
+        <label for="lastname">Last Name</label>
+        <input id="ln" class="form-control" name="lastname" type="text" placeholder="LastName">
+        
+        <label for="Age">Age</label>
+        <input id="age" class="form-control" name="Age" type="number" placeholder="Age">
+        
+        <label for=gender>Gender</label><br>
+        <input type="radio" name="gender" value="male"> Male<br>
+        <input type="radio" name="gender" value="female"> Female<br>
+        
+        <label for="Location">Location</label>
+        <select id="location">
+            <option value="egyt">Egyt</option>
+            <option value="tunisa">Tunisa</option>
+            <option value="algeria">Algeria</option>
+        </select>
+        <br>
+        
+        <label for="diet">Diet</label><br>
+        <input type="checkbox" name="diet[]" value="vegeterian"> Vegeterian<br>
+        <input type="checkbox" name="diet[]" value="kosher"> Kosher<br>
+        <input type="checkbox" name="diet[]" value="kosher"> Lactose Free
+        <br>
+        
+        <botton id="register" class="btn btn-info">Register</botton>
+        </form>
+                <script
+  src="https://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+        <script src="forms.js"></script>
+
+    </body>
+</html>

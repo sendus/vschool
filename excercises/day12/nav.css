@@ -1,0 +1,24 @@
+.one {
+    background-color:cornflowerblue;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+     border-radius: 3px;
+    size
+}
+.two {
+    background-color :darkcyan;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+     border-radius: 3px;
+}
+.three {
+     background-color: dodgerblue;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 3px;
+    height: 400px;
+    width: 400px;
+}

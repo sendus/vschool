@@ -1,0 +1,8 @@
+h1,h2,h3,h4 {
+    color: darkslategray;
+    font-size: 10;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    background-color: darkcyan   
+}

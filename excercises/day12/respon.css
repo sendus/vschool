@@ -1,0 +1,30 @@
+.rose {
+    background-color :darkslateblue;
+    height: 150px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.red {
+    background-color: darkorchid;
+     height: 150px;
+    width: 100%;
+     margin-bottom: 15px;
+}
+.blue {
+     background-color:darkcyan ;
+     height: 150px;
+    width: 100%;
+     margin-bottom: 15px;
+}
+.green {
+      background-color:darkolivegreen ;
+     height: 150px;
+    width: 100%;
+     margin-bottom: 15px;
+}
+.brown {
+     background-color:saddlebrown;
+     height: 150px;
+    width: 100%; 
+     margin-bottom: 15px;
+}

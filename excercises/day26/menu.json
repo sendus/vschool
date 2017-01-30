@@ -1,0 +1,28 @@
+ {"appetizers" : [ 
+     {
+            "name" : "fries",
+            "ingredients" : ["Potato", "Salt"]
+        }, {
+            "name" : "tabbouleh",
+            "ingredients" : ["tomato", "parsley", "lettuce"]
+      }
+    ], 
+  "mankoushe" : [
+      {
+        "name" : "chese",
+        "ingredients" : ["akkawi", "Salt", "bread"] 
+      },{
+         "name" : "zaatar",
+        "ingredients" : ["zaata", "Salt", "bread"]  
+      }
+  ],
+  "sandwiches" : [
+      {
+          "name" : "burger",
+          "ingredients" : ["bread", "meat", "lettuce"]
+      }, {
+          "name" : "tawook",
+          "ingredients" : ["bread", "tawook", "lettuce"]
+      }
+  ]
+}

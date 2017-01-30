@@ -1,0 +1,15 @@
+body {
+   background: url(www.jpg) fixed;
+   background-size: cover;
+   background-position: center;
+    
+}
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+p{
+     color:cornflowerblue;
+     font-weight: bolder;
+     font-size: 30px;
+}
